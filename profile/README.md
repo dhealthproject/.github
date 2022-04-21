@@ -20,6 +20,15 @@
   [**dHealth Website**][parent-url] | [**dHealth Developer Hub**][docs-url] | [**Awesome dHealth Network**][community-url]
 
   [![Chat on discord](https://img.shields.io/discord/856324454246383637)][discord]
+
+</div>
+
+<div align="center">
+  <h3>Community <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"></h3>
+
+  [**dHealth Website**][parent-url] | [**dHealth Developer Hub**][docs-url] | [**Awesome dHealth Network**][community-url]
+
+  [![Chat on discord](https://img.shields.io/discord/856324454246383637)][discord]
 </div>
 
 <div align="center">
