@@ -11,22 +11,20 @@
 
 </div>
 
-<div align="left">
+<div align="center">
   <h3>Technology Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"></h3>
 
   | Protocol source code | Software registries |
   | --- | --- |
   | ![C++][badge-cpp] ![MongoDB][badge-mongo] ![NodeJS][badge-node] | ![Docker][badge-docker] ![NPM][badge-npm] ![Yarn][badge-yarn] |
-  | --- | --- |
+
   | Programming languages | Frameworks |
   | --- | --- |
-  | ![C++][badge-cpp] ![TypeScript][badge-ts] ![JavaScript][badge-ts] | ![Vue.js][badge-vue] ![HTML5][badge-html] ![CSS3][badge-css] ![TailwindCSS][badge-tailwind] |
+  | ![C++][badge-cpp] ![TypeScript][badge-ts] ![JavaScript][badge-js] ![Python][badge-python] | ![Vue.js][badge-vue] ![HTML5][badge-html] ![CSS3][badge-css] ![TailwindCSS][badge-tailwind] |
 
 </div>
 
-<div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-</div>
+<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)</div>
 
 
 [parent-url]: https://dhealth.com
@@ -42,6 +40,7 @@
 [badge-yarn]: https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white
 [badge-ts]: https://badges.frapsoft.com/typescript/code/typescript-125x28.png?v=101
 [badge-js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[badge-python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [badge-vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 [badge-html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [badge-css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
